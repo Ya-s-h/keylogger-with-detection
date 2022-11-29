@@ -17,12 +17,12 @@ For first time running:
 3> python keylogger.py
 Both your terminal will look like this:
   
-![picture 1](/repository/img/Picture1.png?raw=true)
+![picture 1](/img/Picture1.png?raw=true)
 
 After telling detector not to add the given process in whitelist, keylogger will abruptly stop.
  
   
-![picture 2](/repository/img/Picture2.png?raw=true)
+![picture 2](/img/Picture2.png?raw=true)
 
  
 If otherwise, keylogger will keep on running. ggwp
