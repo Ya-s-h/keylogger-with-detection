@@ -13,7 +13,7 @@ For creating account on mailtrap.io, follow this: https://www.youtube.com/watch?
 ###Steps to follow to run script:
 
 For first time running:\
-	1> pip install -r requirements.txt\
+&emsp;1> pip install -r requirements.txt\
 2> python detection.py\
 3> python keylogger.py\
 Both your terminal will look like this:\
