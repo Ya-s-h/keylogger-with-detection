@@ -10,12 +10,12 @@ For creating account on mailtrap.io, follow this: https://www.youtube.com/watch?
 
 ## After setting up the account on mailtrap, copy your username and password and paste it in credential.py
 
-###Steps to follow to run script:
+### Steps to follow to run script:
 
 For first time running:\
-&emsp;1> pip install -r requirements.txt\
-2> python detection.py\
-3> python keylogger.py\
+&emsp; pip install -r requirements.txt\
+- python detection.py\
+- python keylogger.py\
 Both your terminal will look like this:\
   
 ![picture 1](/img/Picture1.png?raw=true)
